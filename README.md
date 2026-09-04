@@ -1,11 +1,11 @@
 # 🧠 Lucas Santos
 
-### Analista de Dados | Cientista de Dados | Engenharia e Análise de Dados  
+### Analista de Dados e Cientista de Dados Júnior | Estudando Engenharia de Dados e Engenharia de Agentes de IA 
 ### Python • SQL • Power BI • Excel • DAX • ETL | Machine Learning • Deep Learning • LLMs • Visão Computacional
 
 ---
 
-👋 Olá! Sou **Lucas Santos**, formado em Engenharia e atualmente pós-graduando em **Engenharia e Análise de Dados**. Tenho como missão transformar dados em soluções inteligentes e acionáveis, utilizando tecnologia de ponta, pensamento analítico e uma abordagem prática e aplicada.
+👋 Olá! Sou **Lucas Santos**, formado em Engenharia, pós-graduado em **Engenharia e Análise de Dados**. Tenho como missão transformar dados em soluções inteligentes e acionáveis, utilizando tecnologia de ponta, pensamento analítico e uma abordagem prática e aplicada.
 
 ---
 
@@ -26,7 +26,7 @@
 
 Estou sempre em busca de novos aprendizados, aprofundando meus conhecimentos em ferramentas, linguagens e técnicas para análise, ciência e engenharia de dados.
 
-🎯 Meu objetivo é atuar profissionalmente com **dados** — seja como **analista, cientista ou engenheiro de dados** — contribuindo com soluções que gerem valor desde agora.
+🎯 Meu objetivo é atuar profissionalmente com **dados e IA** — seja como **analista, cientista, engenheiro de dados ou engenheiro de agentes de IA** — contribuindo com soluções que gerem valor desde agora.
 
 ---
 

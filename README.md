@@ -43,7 +43,7 @@ Pós-graduado em **Engenharia e Análise de Dados** (CESAR School). Hoje aprofun
 
 Meus projetos estão organizados em um repositório dedicado:
 
-### ➡️ **[Explore meu portfólio de projetos](https://github.com/Lucas-Data-A/Portfolio)**
+### ➡️ **[Explore meu portfólio de projetos](https://github.com/Lucas-Data-A/Portfolio.git)**
 
 Começando pela área de **Ciência de Dados**, com projetos de **Agentes de IA** a caminho.
 

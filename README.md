@@ -13,10 +13,12 @@ Pós-graduado em **Engenharia e Análise de Dados** (CESAR School). Hoje aprofun
 
 🛠️ Tecnologias & Ferramentas
 <p align="left"> <img align="center" alt="Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp; <img align="center" alt="R" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />&nbsp;&nbsp; <img align="center" alt="PostgreSQL" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />&nbsp;&nbsp; <img align="center" alt="Pandas" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />&nbsp;&nbsp; <img align="center" alt="NumPy" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" />&nbsp;&nbsp; <img align="center" alt="scikit-learn" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp; <img align="center" alt="PyTorch" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />&nbsp;&nbsp; <img align="center" alt="Power BI" height="42" width="42" src="https://img.icons8.com/color/48/power-bi.png" />&nbsp;&nbsp; <img align="center" alt="Excel" height="42" width="42" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />&nbsp;&nbsp; <img align="center" alt="AWS" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp; <img align="center" alt="Jupyter" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp; <img align="center" alt="Git" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />&nbsp;&nbsp; <img align="center" alt="GitHub" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" /> </p>
-🎯 Foco atual
-📊 Ciência de dados aplicada — análise, modelagem preditiva e visualização que viram decisão de negócio
-🤖 Engenharia de agentes de IA — LLMs, RAG e orquestração com CrewAI
-☁️ Dados em nuvem — processos ETL e AWS (S3, Athena, Glue, SageMaker)
+
+🎯 Foco atual:
+- 📊 Ciência de dados aplicada — análise, modelagem preditiva e visualização que viram decisão de negócio
+- 🤖 Engenharia de agentes de IA — LLMs, RAG e orquestração com CrewAI
+- ☁️ Dados em nuvem — processos ETL e AWS (S3, Athena, Glue, SageMaker)
+
 📂 Portfólio
 
 Meus projetos estão organizados em um repositório dedicado:

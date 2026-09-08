@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Lucas Barbosa dos Santos
 
 ### 🧠 Cientista de Dados | Machine Learning, Analytics & Agentes de IA
-**Python · SQL · Power BI · AWS · PyTorch · LLMs · RAG · CrewAI**
+**Python · SQL · Power BI · AWS · PyTorch · LLMs · RAG · Agentes de IA**
 
 ---
 
-Engenheiro mecânico que virou cientista de dados. Transformo dados complexos — de bases de vendas com dezenas de milhares de transações a mercados sem dado estruturado, como a computação quântica — em decisões claras.
+Engenheiro mecânico que virou cientista de dados. Transformo dados complexos — de bases de vendas com dezenas de milhares de transações a mercados sem dado estruturado — em decisões claras.
 
-Pós-graduado em **Engenharia e Análise de Dados** (CESAR School). Hoje aprofundo **engenharia de agentes de IA** (LLMs, RAG e orquestração com CrewAI) para automatizar análises e ampliar o impacto do trabalho com dados.
+Pós-graduado em **Engenharia e Análise de Dados** (CESAR School). Hoje aprofundo meus conhecimentos em **engenharia de agentes de IA** (LLMs, RAG e orquestração) para automatizar análises e ampliar o impacto do trabalho com dados.
 
 ---
 
